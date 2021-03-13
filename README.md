@@ -1,6 +1,6 @@
 # Uniques text file
 
-Uniques text file, Python'da args kütüphanesi kullanmadan parametre alan consol uygulaması. Txt dosyasındaki unique satırları .txt olarak almanıza olanak sağlıyor.
+Uniques text file, Python'da args kütüphanesi kullanmadan parametre alan consol uygulaması. Txt dosyasındaki unique satırları .txt olarak almanıza olanak sağlıyor. Sıralama alogirtması olarak Quick Short kullanışmıştır.
 
 ## Parametreler
 |Paramentre | Açıklama | Varsayılan |
