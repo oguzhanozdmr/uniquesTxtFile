@@ -12,7 +12,7 @@ Uniques text file, Python'da args kütüphanesi kullanmadan parametre alan conso
 | -casesensitive | Harflerin boyut duyarlılığı | True |
 
 
-# Çalıştırmak
+
 Örnek çalıştırma kodu.
 ```sh
 python uniques.py -infile test.txt
